@@ -1,0 +1,25 @@
+img{
+	display:none;
+}
+header{
+	 background-color: #D3D3D3;
+}
+h1{
+	text-transform: uppercase;
+	color:#FFFFFF;
+	font-family: "Times New Roman";
+	text-align: center;
+}
+a{
+	color:#000000;
+	background-color: #DDDDDD;
+}
+section{
+	background-color:#A9A9A9;
+}
+h2{
+	font-family: "Times New Roman";
+	color: #00008B;
+	text-transform: uppercase;
+}
+
